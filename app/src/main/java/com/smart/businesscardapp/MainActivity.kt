@@ -66,7 +66,7 @@ fun BusinessCard() {
 
         // Name
         Text(
-            text = "Abubakar Ayuba ",
+            text = "Abdurrahman muhammad bello  ",
             fontSize = 34.sp,
             fontWeight = FontWeight.Bold
         )
